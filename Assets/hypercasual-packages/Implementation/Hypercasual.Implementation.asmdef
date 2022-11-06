@@ -1,0 +1,16 @@
+{
+    "name": "Hypercasual.Implementation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:465378018c3274fd79d602f2f30df3bd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
